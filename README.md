@@ -16,8 +16,8 @@ Este repositório guarda o **programa do VISADA** para baixar, na aba **[Release
 
 ## Windows (10 e 11)
 
-1. Baixe o **`visada.exe`**.
-2. Dê **dois cliques**. Não há instalador: o programa roda da própria pasta e nada é gravado no sistema (para remover, apague o arquivo).
+1. Baixe o **`visada.zip`** (o executável está zipado) e extraia.
+2. Dê **dois cliques** no **`visada.exe`** extraído. Não há instalador: o programa roda da própria pasta e nada é gravado no sistema (para remover, apague a pasta).
 3. O mapa abre no navegador e aparece um **ícone perto do relógio** (bandeja do sistema). Para fechar, botão direito no ícone.
 
 Se o Windows mostrar **"O Windows protegeu o seu computador"**, clique em **Mais informações** e **Executar assim mesmo** (o programa não tem assinatura digital paga).
