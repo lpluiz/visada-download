@@ -1,0 +1,56 @@
+COMPONENTES E DADOS DE TERCEIROS USADOS PELO "VISADA"
+
+Só o que a licença ou os termos de uso exigem citar.
+
+1. BIBLIOTECAS DE CÓDIGO ABERTO INCLUÍDAS NO PROGRAMA
+   - MapLibre GL JS: licença BSD de 3 cláusulas. Copyright (c) MapLibre contributors;
+     partes copyright (c) Mapbox. Texto completo: LICENSE.txt, na pasta vendor da interface.
+   - maplibre-contour: licença BSD de 3 cláusulas. Texto completo: LICENSE-maplibre-contour.txt.
+   - three.js: licença MIT. Copyright (c) 2010-2023 three.js authors. Texto completo: LICENSE-three.txt.
+   - Demais bibliotecas, sob licenças MIT, Apache-2.0, BSD, ISC, Zlib, Unicode-3.0 e
+     CDLA-Permissive-2.0, que pedem a manutenção dos avisos de autoria:
+     adler2, anstream, anstyle, atomic-waker, axum, base64, bitflags, block-buffer, bytes, cfg-if,
+     chacha20, clap, colorchoice, const-oid, cpufeatures, crc32fast, crypto-common, digest, displaydoc,
+     fdeflate, flate2, form_urlencoded, getrandom, http, http-body, httparse, httpdate, hybrid-array,
+     hyper, hyper-rustls, icu (collections, locale_core, normalizer, properties, provider), idna, ipnet,
+     itoa, libc, litemap, log, lru-slab, matchit, memchr, mime, mime_guess, miniz_oxide, mio, once_cell,
+     percent-encoding, pin-project-lite, png, potential_utf, quinn, rand, reqwest, ring, rust-embed,
+     rustc-hash, rustls, rustls-pki-types, rustls-webpki, ryu, same-file, serde, serde_json,
+     serde_path_to_error, serde_urlencoded, sha2, simd-adler32, slab, smallvec, socket2, strsim, subtle,
+     sync_wrapper, thiserror, tinystr, tinyvec, tokio, tokio-rustls, tower, tower-http, tracing,
+     try-lock, typenum, unicase, unicode-ident, untrusted, url, utf8_iter, walkdir, want, webpki-roots,
+     winapi-util, windows-sys, writeable, yoke, zerofrom, zerotrie, zerovec, zeroize, zlib-rs.
+
+2. MODELOS DE PROPAGAÇÃO
+   - Longley-Rice (Irregular Terrain Model, ITM) e onda de solo LFMF: NTIA/ITS (EUA), domínio público.
+     O modelo Longley-Rice foi adaptado pelo autor do VISADA (12/11/2026), com ajustes próprios.
+   - Predição de HF: ITURHFProp (ITU-R P.533 e P.372), programa de referência da ITU-R, distribuído
+     sem alteração e "as is", sem garantias.
+
+3. DADOS E SERVIÇOS
+   - Relevo: AWS Terrain Tiles (Mapzen); SRTM data courtesy of the U.S. Geological Survey.
+   - Imagem de satélite: Esri, Vantor, Earthstar Geographics, and the GIS User Community
+     (termos de uso da Esri; não distribuir as áreas baixadas).
+   - Sentinel-2 cloudless: EOX IT Services GmbH (Contains modified Copernicus Sentinel data),
+     CC BY-NC-SA 4.0 (uso não comercial).
+   - Busca de lugares: Nominatim, dados (c) colaboradores do OpenStreetMap, ODbL.
+   - Estradas, ruas e trilhas (aba Como chegar): OpenFreeMap (openfreemap.org), (c) OpenMapTiles,
+     dados (c) colaboradores do OpenStreetMap, ODbL.
+   - Caminho entre dois pontos (aba Como chegar): openrouteservice.org, HeiGIT, com a chave pessoal
+     de cada usuário; dados (c) colaboradores do OpenStreetMap, ODbL.
+   - Coordenadas das capitais: tabela municipios-brasileiros, Copyright (c) 2016 Kelvin S. do Prado,
+     licença MIT, a partir de dados do IBGE.
+   - Clima: Open-Meteo, CC BY 4.0.
+   - Ionosfera (MUF e LUF): prop.kc2g.com (KC2G), com dados da rede de ionossondas GIRO.
+   - Desmatamento: PRODES, INPE, CC BY-SA 4.0.
+   - Faixa de fronteira: IBGE.
+   - Uruguai: IDE Uruguay, Licencia de Datos Abiertos Uruguay.
+   - Divisões dos países vizinhos: geoBoundaries (Runfola et al., 2020), CC BY 4.0 e CC BY 3.0 IGO.
+   - Limite do DF: geodata-br (licença MIT).
+
+4. FOTOS DOS RÁDIOS
+   Fotos dos sites da L3Harris e da Motorola Solutions, só para identificar os equipamentos.
+   Pertencem aos fabricantes.
+
+SÍMBOLO DO VISADA
+   Pertence ao autor do VISADA.
