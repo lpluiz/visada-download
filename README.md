@@ -24,12 +24,12 @@ Se o Windows mostrar **"O Windows protegeu o seu computador"**, clique em **Mais
 
 ## Linux (Debian, Ubuntu, Kali e derivados, 64 bits)
 
-1. Baixe o **`visada_2026.11.15_amd64.deb`**.
+1. Baixe o **`visada.deb`**.
 2. Instale com o gerenciador de pacotes:
    ```bash
-   sudo apt install ./visada_2026.11.15_amd64.deb
+   sudo apt install ./visada.deb
    ```
-   (ou `sudo dpkg -i visada_2026.11.15_amd64.deb` e, se faltar dependência, `sudo apt -f install`).
+   (ou `sudo dpkg -i visada.deb` e, se faltar dependência, `sudo apt -f install`).
 3. Abra pelo menu de aplicativos (**VISADA**) ou rode no terminal:
    ```bash
    visada servir
