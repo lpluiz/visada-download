@@ -20,7 +20,11 @@ Este repositório guarda o **programa do VISADA** para baixar, na aba **[Release
 2. Dê **dois cliques** no **`visada.exe`** extraído. Não há instalador: o programa roda da própria pasta e nada é gravado no sistema (para remover, apague a pasta).
 3. O mapa abre no navegador e aparece um **ícone perto do relógio** (bandeja do sistema). Para fechar, botão direito no ícone.
 
-Se o Windows mostrar **"O Windows protegeu o seu computador"**, clique em **Mais informações** e **Executar assim mesmo** (o programa não tem assinatura digital paga).
+Se o Windows mostrar **"O Windows protegeu o seu computador"**, isso é esperado: o VISADA ainda não tem um certificado de assinatura digital paga, e o Windows desconfia por padrão de qualquer programa novo por causa disso, não porque haja algo de errado.
+
+> ⚠️ **Antes de executar, se quiser ter certeza:** envie o `visada.zip` (ou o `visada.exe` de dentro) para o **[VirusTotal](https://www.virustotal.com/)**, um site gratuito e independente que confere o arquivo com dezenas de antivírus ao mesmo tempo. Arraste o arquivo na página e aguarde o resultado.
+
+Depois de conferir, para abrir mesmo com o aviso: clique em **Mais informações** e **Executar assim mesmo**.
 
 ## Linux (Debian, Ubuntu, Kali e derivados, 64 bits)
 
