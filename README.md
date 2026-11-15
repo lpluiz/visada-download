@@ -14,10 +14,10 @@
 
 Este repositório guarda apenas o **programa para Windows** (na aba **Releases**): o `visada.exe`, a licença e a lista de componentes de terceiros. Não há código-fonte aqui.
 
-## Como instalar e abrir
+## Como abrir
 
 1. Baixe o **`visada.exe`** na aba **[Releases](../../releases/latest)**.
-2. Dê **dois cliques**. O programa não instala nada: roda da própria pasta.
+2. Dê **dois cliques**. Não há instalador: o programa roda da própria pasta e nada é gravado no sistema (para remover, apague o arquivo).
 3. O mapa abre no navegador e aparece um **ícone perto do relógio** (bandeja do sistema). Se não aparecer, ele está na setinha **^** ao lado do relógio.
 4. Para **fechar**: clique com o **botão direito** no ícone e escolha **Fechar o VISADA**.
 
